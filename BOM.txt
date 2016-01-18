@@ -1,0 +1,8 @@
++-----+-----------------------+-----------------------------------------+
+| Qty |          Desc         |                   URL                   |
++-----+-----------------------+-----------------------------------------+
+|  3  |    330 Ohm Resistor   |  https://www.sparkfun.com/products/8377 |
+|  1  | PIR Motion Sensor JST | https://www.sparkfun.com/products/13285 |
+|  1  |  Arduino Mega 2560 R3 | https://www.sparkfun.com/products/11061 |
+|  1  |  RGB Led Common Anode | https://www.sparkfun.com/products/10820 |
++-----+-----------------------+-----------------------------------------+
